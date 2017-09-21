@@ -3,6 +3,6 @@
 #    serviceUrl:
 #      defaultZone: http://localhost:8010/eureka/
 
-words: "ran,knew,had,saw,bought"
+#words: "ran,knew,had,saw,bought"
 server:
   port: ${PORT:${SERVER_PORT:0}}      

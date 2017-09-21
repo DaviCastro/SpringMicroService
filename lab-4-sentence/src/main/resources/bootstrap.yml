@@ -1,8 +1,6 @@
 spring:
   application:
-    name: lab-4-article
-  profiles:
-    active: lab-4-article  
+    name: lab-4-sentence     
   cloud:
     config:
       uri: http://localhost:8001     
