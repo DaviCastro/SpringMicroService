@@ -5,25 +5,36 @@ eureka:
 ---
 spring:
   profiles: lab-4-subject
+  application:
+    name: subject
 words: I,You,He,She,It
+
 
 ---
 spring:
   profiles: lab-4-verb
+  application:
+    name: verb
 words: ran,knew,had,saw,bought
 
 ---
 spring:
   profiles: lab-4-article
+  application:
+    name: article
 words: a,the
 
 ---
 spring:
   profiles: lab-4-adjective
+  application:
+    name: adjective
 words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
 spring:
   profiles: lab-4-noun
+  application:
+    name: noun
 words: boat,book,vote,seat,backpack,partition,groundhog        
       
