@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: lab-7-sentence-server-solution-reactive
 Implementation-Version: 1
-Built-By: LopesCaD
+Built-By: Davidson
 Implementation-Vendor-Id: org.test
-Build-Jdk: 1.8.0_131
+Build-Jdk: 1.8.0_144
 Implementation-URL: http://projects.spring.io/spring-boot/lab-7-senten
  ce-server-solution-reactive/
 Created-By: Maven Integration for Eclipse
